@@ -46,7 +46,7 @@ Leveraging the existing Mahatma Gandhi National Rural Employment Guarantee Act (
     
 **Expected Impact:**
 
-BharatKaam has the potential to make a substantial difference in India's job market. Reducing unemployment and bolstering the economy can pave the way for a brighter, more prosperous future.
+BharatKaam has the potential to make a substantial difference in India's job market. Reducing unemployment and bolstering the economy can pave the way for a brighter future.
 
 **Conclusion:**
 
@@ -54,7 +54,7 @@ At its core, BharatKaam is a project with a clear mission to empower individuals
 
 **Guided by**
 
-Prof. Madhu Belur belur[@]ee.iitb.ac.in] ,Prof. Prabhu Ramachandran prabhu[@]aero.iitb.ac.in Prof. Kannan Moudgalya  kannan[@]iitb.ac.in
+Prof. Madhu Belur belur[@]ee.iitb.ac.in, Prof. Prabhu Ramachandran prabhu[@]aero.iitb.ac.in Prof. Kannan Moudgalya  kannan[@]iitb.ac.in
 
 **AI content by**
 
