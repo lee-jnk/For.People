@@ -1,2 +1,2 @@
 # For.People
-For the digitally challenged
+For the digitally challenged workforce
