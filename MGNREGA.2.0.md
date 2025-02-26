@@ -54,12 +54,12 @@ At its core, BharatKaam is a project with a clear mission to empower individuals
 
 **Guided by**
 
-Prof. Madhu Belur [belur@ee.iitb.ac.in](mailto:belur@ee.iitb.ac.in) and Prof. Prabhu Ramachandran [prabhu@aero.iitb.ac.in](mailto:prabhu@aero.iitb.ac.in) Prof. Kannan Moudgalya kannan@iitb.ac.in
+Prof. Madhu Belur [belur@ee.iitb.ac.in](mailto:belur@ee.iitb.ac.in) and Prof. Prabhu Ramachandran [prabhu@aero.iitb.ac.in](mailto:prabhu@aero.iitb.ac.in) Prof. Kannan Moudgalya  kannan@iitb.ac.in [kannan@iitb.ac.in](mailto:kannan@iitb.ac.in)
 
 **AI content by**
 
 Google Docs/Gemini [docs.google.com](https://docs.google.com) [gemini.google.com](https://gemini.google.com)   Meta AI [meta.ai](https://meta.ai)  and Grammarly EDU [www.grammarly.com/edu](https://www.grammarly.com/edu)
 
-**Helped by**1
+**Helped by**
 
 FOSSEE [fossee.in](https://fossee.in)
